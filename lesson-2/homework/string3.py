@@ -1,0 +1,6 @@
+str = input("Please enter a string: ")
+print("The length of the string is:",  len(str))
+str_up = str.lower()
+str_low = str.upper()
+print(str_low)
+print(str_up)
