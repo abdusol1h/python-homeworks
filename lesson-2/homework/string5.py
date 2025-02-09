@@ -4,7 +4,7 @@ vowels = 0
 for i in str:
     if i.lower() in 'aiueo':
         vowels += 1
-    else:
+    elif (i.isalpha() & (i.lower() not in 'aiueo')):
         consonants += 1
 
 print(f"{vowels=}")
