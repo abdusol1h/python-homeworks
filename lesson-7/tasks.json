@@ -1,0 +1,16 @@
+[
+    {
+        "task_id": 101,
+        "title": "Finish Homework",
+        "description": "Complete calculus homework",
+        "due_date": "2025-03-01",
+        "status": "Pending"
+    },
+    {
+        "task_id": 102,
+        "title": "Chores",
+        "description": "Wash the dishes",
+        "due_date": "2025-03-03",
+        "status": "Pending"
+    }
+]
