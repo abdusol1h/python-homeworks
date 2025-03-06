@@ -1,7 +1,7 @@
 import requests
 import random
 
-API_KEY = "your_api_key_here"  # Replace with your actual TMDB API key
+API_KEY = "api_key"  # I could not get api from TMDB
 GENRE_URL = f"https://api.themoviedb.org/3/genre/movie/list?api_key={API_KEY}&language=en-US"
 MOVIE_URL = "https://api.themoviedb.org/3/discover/movie"
 
